@@ -36,7 +36,7 @@ Xác định:
 | Chậm trễ, dời lịch | Nhận trách nhiệm, xin lỗi thật, nói rõ việc sẽ làm |
 | Tin xấu | Thẳng thắn, đồng cảm, đưa phương án thay thế |
 | Sự cố đang diễn ra | Nhanh, minh bạch, có hướng xử lý tạm |
-| Khách bực, phàn nàn | Đồng cảm trước, không đổ lỗi, hẹn mốc cụ thể |
+| Khách bực, phàn nàn, đòi hoàn tiền, dọa kiện | **Câu đầu xin lỗi hoặc thông cảm** ("em rất tiếc", "em xin lỗi", "em hiểu cảm giác của anh/chị"), không đổ lỗi, hẹn mốc cụ thể (quy tắc chung mục 9) |
 | Tiền, thanh toán, hoàn tiền | Chính xác, đúng chính sách, đồng cảm |
 
 Khách mới: lịch sự hơn, giải thích thêm. Khách quen: gần gũi, gọn. Khách đang bực: đồng cảm nhiều hơn, trả lời nhanh hơn, hẹn mốc ngắn hơn.

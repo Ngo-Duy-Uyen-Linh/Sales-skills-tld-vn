@@ -1,4 +1,4 @@
-# Sales-skills-tld-vn — bộ kỹ năng sale chuẩn tiếng Việt (bản 0.10.2, 19/11/2026)
+# Sales-skills-tld-vn — bộ kỹ năng sale chuẩn tiếng Việt (bản 0.10.3, 19/11/2026)
 
 Bộ kỹ năng giúp nhân viên sale nhắn tin tư vấn, đặt câu hỏi, xử lý lời từ chối, chốt sale và chăm sóc học viên. **Dùng được cho mọi tổ chức.** Bộ không chứa thông tin riêng của tổ chức nào: tổ chức tự điền vào `tai-lieu-to-chuc/`.
 

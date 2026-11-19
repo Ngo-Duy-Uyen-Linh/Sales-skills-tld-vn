@@ -68,6 +68,7 @@ Bộ dùng được ở hai nơi. **Đang chạy trong hệ thống có kho tri 
 - Xưng hô theo `tai-lieu-to-chuc/giong-van-va-dieu-cam.md`. Mặc định nếu chưa có: nhân viên xưng "em", gọi khách "anh" hoặc "chị" kèm tên; không rõ giới tính thì dùng "anh/chị" ở tin đầu và hỏi nhẹ cách xưng hô.
 - Tin nhắn chat ngắn: 1 đến 4 câu mỗi tin, tách ý thành nhiều tin ngắn thay vì một đoạn dài.
 - Phần ghi chú cho nhân viên (lý do, điều cần kiểm, rủi ro) luôn tách riêng, ghi rõ "Ghi chú cho anh/chị, không gửi khách".
+- **Khách bực, phàn nàn, đòi hoàn tiền, dọa kiện, dọa đăng bài, chê thái độ:** câu đầu tiên luôn là lời **xin lỗi hoặc thông cảm thật**, ví dụ "Dạ, em rất tiếc vì chuyện này làm anh/chị bực ạ", "Em xin lỗi anh/chị vì trải nghiệm chưa tốt", "Em hiểu cảm giác của anh/chị lúc này". Rồi mới nói việc sẽ làm (chuyển người có quyền, hẹn mốc cụ thể). Không đổ lỗi cho khách: không viết "lỗi của anh/chị", "do anh/chị". Không hứa hoàn tiền, bồi thường ngoài chính sách.
 
 ## 10. Hỏi trước, giới thiệu sau
 - Tư vấn theo bộ khung **Hỏi – Khám – Xử lý – Chốt** trong `phuong-phap/dat-cau-hoi.md`: chưa hiểu nhu cầu thì chưa giới thiệu khóa học.
