@@ -21,12 +21,12 @@ Bộ dùng được ở hai nơi. **Đang chạy trong hệ thống có kho tri 
 
 | Thông tin | Trong kho tri thức | Trong thư mục `tai-lieu-to-chuc/` |
 |---|---|---|
-| Xưng hô, giọng văn, giờ nhắn, điều cấm, quy tắc an toàn | Luật tuân thủ | `giong-van-va-dieu-cam.md` |
+| Xưng hô, giọng văn, giờ nhắn, điều cấm, quy tắc an toàn | Luật tuân thủ (hệ thống cũ gọi là "Hướng dẫn") | `giong-van-va-dieu-cam.md` |
 | Khóa học, giá, lịch, ưu đãi, chính sách hoàn tiền | Tài liệu | `khoa-hoc.md` |
 | Câu hỏi thường gặp | Tài liệu | `cau-hoi-thuong-gap.md` |
 | Lời từ chối và cách trả lời | Tài liệu | `loi-tu-choi.md` |
 | Thời hạn trả lời, các mốc chăm sóc | Tài liệu | `quy-trinh-cham-soc.md` |
-| Hội thoại mẫu | Ví dụ | `hoi-thoai-mau.md` |
+| Hội thoại mẫu, câu trả lời đã sửa cho đúng | Ví dụ sửa | `hoi-thoai-mau.md` |
 
 - Hai nơi cùng có mà nói khác nhau: theo **kho tri thức** (tổ chức đang quản lý ở đó), và báo người dùng chỗ lệch kèm hai câu gốc.
 - Không tìm thấy ở cả hai nơi: làm theo mục 3 (hỏi một câu hoặc ghi `[cần xác nhận: …]`), không đoán.

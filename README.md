@@ -1,4 +1,4 @@
-# Sales-skills-tld-vn — bộ kỹ năng sale chuẩn tiếng Việt (bản 0.9.0, 19/11/2026)
+# Sales-skills-tld-vn — bộ kỹ năng sale chuẩn tiếng Việt (bản 0.9.1, 19/11/2026)
 
 Bộ kỹ năng giúp nhân viên sale nhắn tin tư vấn, đặt câu hỏi, xử lý lời từ chối, chốt sale và chăm sóc học viên. **Dùng được cho mọi tổ chức.** Bộ không chứa thông tin riêng của tổ chức nào: tổ chức tự điền vào `tai-lieu-to-chuc/`.
 
@@ -38,9 +38,9 @@ Kỹ năng tìm thông tin của tổ chức theo thứ tự: **kho tri thức c
 **Cách 1: dùng trong hệ thống có kho tri thức (khuyên dùng).**
 1. Kéo bộ này về qua màn quản lý gói kỹ năng của hệ thống, ghim theo **mã commit**. Không sửa bộ.
 2. Nạp thông tin của tổ chức vào kho tri thức:
-   - **Luật tuân thủ:** xưng hô, giọng văn, giờ nhắn, điều cấm, quy tắc an toàn.
+   - **Luật tuân thủ** (hệ thống cũ gọi là "Hướng dẫn"): xưng hô, giọng văn, giờ nhắn, điều cấm, quy tắc an toàn.
    - **Tài liệu:** khóa học, giá, lịch, ưu đãi, câu hỏi thường gặp, lời từ chối, quy trình chăm sóc.
-   - **Ví dụ:** hội thoại mẫu, đã xóa tên và số điện thoại khách.
+   - **Ví dụ sửa:** hội thoại mẫu, câu trả lời đã sửa cho đúng; đã xóa tên và số điện thoại khách.
 3. Bộ có bản mới thì chỉ đổi mã commit; thông tin của tổ chức giữ nguyên trong kho tri thức.
 
 **Cách 2: dùng bằng Claude Code hoặc Claude trên máy.**
