@@ -1,0 +1,13 @@
+{
+  "name": "sales-skills-tld-vn",
+  "owner": {
+    "name": "Thế Là Được"
+  },
+  "plugins": [
+    {
+      "name": "sales-skills-tld-vn",
+      "source": "./",
+      "description": "Bộ kỹ năng sale chuẩn tiếng Việt cho mọi tổ chức: tư vấn qua tin nhắn, đặt câu hỏi, xử lý lời từ chối, chốt sale, chăm sóc học viên."
+    }
+  ]
+}
