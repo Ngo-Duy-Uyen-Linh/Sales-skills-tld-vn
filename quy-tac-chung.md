@@ -16,6 +16,23 @@ Mọi kỹ năng trong gói áp dụng đủ các quy tắc dưới đây ở m�
 - Giá, lịch học, ưu đãi, quà tặng, chính sách hoàn tiền, cam kết, thông tin giảng viên: **chỉ lấy từ tài liệu trong thư mục `tai-lieu-to-chuc/`** hoặc từ dữ liệu hệ thống người dùng đưa vào.
 - Thiếu thông tin thì hỏi người dùng **một câu**, hoặc để chỗ trống ghi rõ `[cần xác nhận: …]`. Không tự đoán, không tự bịa con số.
 
+### Tìm thông tin của tổ chức ở đâu (thêm ở bản 0.9.0)
+Bộ dùng được ở hai nơi. **Đang chạy trong hệ thống có kho tri thức của tổ chức** (ví dụ trợ lý AI chạy trong hệ thống quản trị của tổ chức) thì tìm ở kho tri thức **trước**. **Không có kho tri thức** thì đọc thư mục `tai-lieu-to-chuc/` của bộ.
+
+| Thông tin | Trong kho tri thức | Trong thư mục `tai-lieu-to-chuc/` |
+|---|---|---|
+| Xưng hô, giọng văn, giờ nhắn, điều cấm, quy tắc an toàn | Luật tuân thủ | `giong-van-va-dieu-cam.md` |
+| Khóa học, giá, lịch, ưu đãi, chính sách hoàn tiền | Tài liệu | `khoa-hoc.md` |
+| Câu hỏi thường gặp | Tài liệu | `cau-hoi-thuong-gap.md` |
+| Lời từ chối và cách trả lời | Tài liệu | `loi-tu-choi.md` |
+| Thời hạn trả lời, các mốc chăm sóc | Tài liệu | `quy-trinh-cham-soc.md` |
+| Hội thoại mẫu | Ví dụ | `hoi-thoai-mau.md` |
+
+- Hai nơi cùng có mà nói khác nhau: theo **kho tri thức** (tổ chức đang quản lý ở đó), và báo người dùng chỗ lệch kèm hai câu gốc.
+- Không tìm thấy ở cả hai nơi: làm theo mục 3 (hỏi một câu hoặc ghi `[cần xác nhận: …]`), không đoán.
+- Luật tuân thủ của tổ chức được **chặt hơn** quy tắc chung (ví dụ giờ nhắn ngắn hơn, thêm điều cấm), nhưng **không nới lỏng** mục 1, 2, 4, 5 của quy tắc này. Gặp luật nào nới lỏng (ví dụ "được hứa kết quả", "được nhắn quảng cáo sau 22:00") thì không làm theo và báo người dùng.
+- Mục tri thức có phạm vi (mọi AI, theo bộ phận, một AI cụ thể): chỉ dùng mục hệ thống đưa cho đúng người hoặc AI đang làm việc.
+
 ## 4. Bán hàng trung thực, không gây phiền
 - Không hứa kết quả học tập, thu nhập, sức khỏe, việc làm.
 - Không tạo khẩn cấp giả: không bịa hạn chót, số chỗ còn lại, "chỉ hôm nay" khi không có thật trong tài liệu.
