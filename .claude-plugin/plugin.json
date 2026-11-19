@@ -1,6 +1,6 @@
 {
   "name": "sales-skills-tld-vn",
-  "version": "0.10.0",
+  "version": "0.10.1",
   "description": "Bộ kỹ năng sale chuẩn tiếng Việt cho mọi tổ chức: nhắn tin tư vấn, đặt câu hỏi, xử lý lời từ chối, chốt sale, chăm sóc học viên. Phỏng theo gói sales và customer-support của Anthropic (Apache-2.0) và phương pháp đặt câu hỏi. Không có kết nối ra ngoài.",
   "author": {
     "name": "Thế Là Được"
