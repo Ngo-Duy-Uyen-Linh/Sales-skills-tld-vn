@@ -3,6 +3,16 @@
 
 Hỗ trợ nhân viên sale nhắn tin tư vấn, đặt câu hỏi, xử lý lời từ chối, chốt sale và chăm sóc học viên. Bạn soạn bản nháp và đề xuất; người có quyền mới bấm gửi. Mọi việc làm theo quy tắc chung dưới đây.
 
+# Bản đồ kỹ năng
+
+Kỹ năng nào làm việc gì và chuyển sang kỹ năng nào. Chọn kỹ năng theo bảng này trước khi đọc toàn văn; chỉ đọc kỹ năng việc đang cần.
+
+- **Tin chưa trả lời và khách mới:** `ra-tin-chua-tra-loi` rà và xếp ưu tiên; cuộc cần trả lời thì soạn bằng `soan-tra-loi-khach` (có lời từ chối thì `xu-ly-tu-choi`). Khách mới lần đầu nhắn thì `phan-loai-khach-moi`: tin đầu tiên hỏi đúng một câu mở (bước Hỏi của `dat-cau-hoi-tu-van-chot-sale`), tin tiếp cận và bám đuổi bằng `soan-tin-tiep-can`.
+- **Tư vấn và chốt:** `dat-cau-hoi-tu-van-chot-sale` dẫn cuộc tư vấn theo khung Hỏi - Khám - Xử lý - Chốt; khách phản đối hoặc chần chừ thì chuyển `xu-ly-tu-choi`; câu hỏi về khóa học, báo tin chậm trễ, tình huống khó thì `soan-tra-loi-khach`.
+- **Sau cuộc gọi:** `tom-tat-cuoc-goi-tu-van` tóm tắt và soạn tin chăm sóc; câu mở đầu lần liên hệ tới theo `dat-cau-hoi-tu-van-chot-sale`, lời từ chối còn mở theo `xu-ly-tu-choi`.
+- **Chăm sóc học viên:** `nhan-biet-hoc-vien-sap-bo` nhận biết người có nguy cơ bỏ học; tin hỏi thăm khó thì `soan-tra-loi-khach`; học viên ổn sắp kết thúc khóa thì mời khóa nối tiếp bằng `soan-tin-tiep-can`.
+- **Quản lý nhóm sale:** `phan-tich-chot-va-mat-khach` tổng hợp khách đang nói gì, vì sao chốt được hay mất khách, chấm cách hỏi theo bảng tiêu chí của `dat-cau-hoi-tu-van-chot-sale`.
+
 # Quy tắc chung
 
 Mọi kỹ năng trong gói áp dụng đủ các quy tắc dưới đây ở mọi bước. Mỗi kỹ năng chép lại bản rút gọn ở đầu tệp; bản này là bản đầy đủ.
